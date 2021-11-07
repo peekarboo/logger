@@ -3,14 +3,18 @@
 
 _Below is an example of how you can  install this package
 1. Run
-   ```Composer Install
+   ```
+   Composer Install
    ```
 2. Include this in your class
-   ```use Ampersandhq\ChallengeLogger;
+   ```
+   use Ampersandhq\ChallengeLogger;
 
    ```
-4. Log  `config.js`
-   ```private $logger;
+3. Log 
+
+   ```
+   private $logger;
     ```
     
  ```
@@ -22,7 +26,7 @@ _Below is an example of how you can  install this package
     }
     
 
-   ```
+
    
 	```
     public function testLogger()
